@@ -1,37 +1,60 @@
 ## Hi, I'm Ravi Ansh 👋
 
 🎓 Final-year B.Tech student  
-📊 Interested in Data Science, ML, AI & Automation  
-🛠 Currently building end-to-end industry projects  
+🤖 Aspiring AI / Machine Learning Engineer  
+🛠 Building intelligent, end-to-end AI systems & agentic workflows  
 📍 India
 
-### Tech Stack
-- Python, Pandas, NumPy
-- SQL (PostgreSQL/MySQL)
-- Scikit-learn
-- Power BI
-- n8n (Automation)
+I enjoy working across the stack — from **model development and data pipelines**  
+to **AI-powered applications and automation systems**.  
+Currently focused on **applied AI, ML engineering, and agent-based systems**.
 
-### Current Focus
-- Retail Sales Analysis & Demand Forecasting
-- Customer Churn Prediction
-- SQL for Business Analytics
+---
 
-### Connect
-- LinkedIn: www.linkedin.com/in/anshravi91
+### 🧩 Tech Stack
 
+#### 🐍 Core Programming
+- Python (Primary language)
 
-<!--
-**anshravi07/anshravi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌐 Full Stack (AI-driven apps)
+- Backend: Python (APIs, AI services)
+- Databases: PostgreSQL, MySQL  
+- Frontend (working knowledge): HTML, CSS, JavaScript  
 
-Here are some ideas to get you started:
+#### 🤖 AI / Machine Learning
+- Machine Learning: Scikit-learn  
+- Data Processing: Pandas, NumPy  
+- Model Development & Evaluation  
+- Feature Engineering & Pipelines  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Agentic AI & Automation
+- AI workflow automation using **n8n**  
+- Building AI agents (task automation, decision pipelines)  
+- API integrations & tool-based agents  
+
+#### 📊 Analytics & Visualization
+- Power BI  
+
+---
+
+### 🚀 What I’m Working On
+- 🤖 End-to-end ML systems (training → inference → evaluation)  
+- 🧠 AI-powered agents & automation workflows  
+- 📈 Forecasting & prediction systems  
+- 🛠 Full-stack AI applications  
+
+---
+
+### 🎯 Career Focus
+- AI Engineer / Machine Learning Engineer roles  
+- Applied AI & intelligent automation  
+- Scalable, production-ready AI systems  
+
+---
+
+### 🌐 Let’s Connect
+- 💼 LinkedIn: [linkedin.com/in/anshravi91](https://www.linkedin.com/in/anshravi91)
+
+---
+
+⭐ Always open to collaborations, internships, and impactful AI projects
