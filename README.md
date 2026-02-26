@@ -1,60 +1,44 @@
-## Hi, I'm Ravi Ansh 👋
-
-🎓 Final-year B.Tech student  
-🤖 Aspiring AI / Machine Learning Engineer  
-🛠 Building intelligent, end-to-end AI systems & agentic workflows  
+Hi, I'm Ravi Ansh 👋
+🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning
+🤖 Building production-ready AI systems (RAG, Computer Vision, Intelligent Automation)
 📍 India
+I design and build end-to-end AI systems — from model development and retrieval pipelines to scalable backend APIs and real-time inference systems.
+My focus lies in applied AI, ML engineering, and intelligent system design, with emphasis on performance, reliability, and practical deployment.
 
-I enjoy working across the stack — from **model development and data pipelines**  
-to **AI-powered applications and automation systems**.  
-Currently focused on **applied AI, ML engineering, and agent-based systems**.
+🧠 Core Expertise
 
----
+🤖 AI / Machine Learning
+Retrieval-Augmented Generation (RAG) systems
+Semantic search & vector databases (FAISS)
+Object detection (YOLO, OpenCV)
+Model evaluation & optimization
+Feature engineering & ML pipelines
 
-### 🧩 Tech Stack
+🛠 Backend & System Design
+FastAPI & RESTful APIs
+Real-time inference systems
+WebSockets & streaming
+Database integration (PostgreSQL, SQLite)
+Dockerized deployments
 
-#### 🐍 Core Programming
-- Python (Primary language)
+🧩 Intelligent Automation
+AI workflow automation using n8n
+Agent-based task orchestration
+API integrations & tool-based AI systems
 
-#### 🌐 Full Stack (AI-driven apps)
-- Backend: Python (APIs, AI services)
-- Databases: PostgreSQL, MySQL  
-- Frontend (working knowledge): HTML, CSS, JavaScript  
+🚀 Current Focus
+Production-grade AI applications
+Real-time ML systems
+Local LLM deployment & privacy-focused AI
+Scalable AI system architecture
 
-#### 🤖 AI / Machine Learning
-- Machine Learning: Scikit-learn  
-- Data Processing: Pandas, NumPy  
-- Model Development & Evaluation  
-- Feature Engineering & Pipelines  
+🎯 Career Interests
+AI Engineer / ML Engineer
+Applied AI & Generative AI
+Intelligent systems & automation
+High-impact engineering teams
 
-#### 🧠 Agentic AI & Automation
-- AI workflow automation using **n8n**  
-- Building AI agents (task automation, decision pipelines)  
-- API integrations & tool-based agents  
+🌐 Connect With Me
+💼 LinkedIn: linkedin.com/in/anshravi91
 
-#### 📊 Analytics & Visualization
-- Power BI  
-
----
-
-### 🚀 What I’m Working On
-- 🤖 End-to-end ML systems (training → inference → evaluation)  
-- 🧠 AI-powered agents & automation workflows  
-- 📈 Forecasting & prediction systems  
-- 🛠 Full-stack AI applications  
-
----
-
-### 🎯 Career Focus
-- AI Engineer / Machine Learning Engineer roles  
-- Applied AI & intelligent automation  
-- Scalable, production-ready AI systems  
-
----
-
-### 🌐 Let’s Connect
-- 💼 LinkedIn: [linkedin.com/in/anshravi91](https://www.linkedin.com/in/anshravi91)
-
----
-
-⭐ Always open to collaborations, internships, and impactful AI projects
+⭐ Open to internships, collaborations, and impactful AI projects
